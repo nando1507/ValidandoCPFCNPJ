@@ -1,0 +1,16 @@
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.exe
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.deps.json
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.runtimeconfig.json
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.runtimeconfig.dev.json
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.dll
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ref\ValidaCPF_CNPJ.dll
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\bin\Debug\net5.0\ValidaCPF_CNPJ.pdb
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.csproj.AssemblyReference.cache
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.AssemblyInfoInputs.cache
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.AssemblyInfo.cs
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.dll
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ref\ValidaCPF_CNPJ.dll
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.pdb
+C:\Users\nando\source\repos\ValidaCPF_CNPJ\ValidaCPF_CNPJ\obj\Debug\net5.0\ValidaCPF_CNPJ.genruntimeconfig.cache
