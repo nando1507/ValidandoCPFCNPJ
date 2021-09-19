@@ -10,8 +10,7 @@ namespace ValidaCPF_CNPJ
         static void Main(string[] args)
         {
             int i = menu();
-
-            while (i != 3)
+            while (i != 9)
             {
                 switch (i)
                 {
@@ -32,6 +31,18 @@ namespace ValidaCPF_CNPJ
                         };
                         break;
                     case 3:
+                        Console.WriteLine("Verificacao Numerica");
+                        string text = Console.ReadLine();
+                        if (isDigit(text))
+                        {
+                            Console.WriteLine("Possui numeros");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Não possui numeros");
+                        }
+                        break;
+                    case 9:
                         Console.WriteLine("Encerrando");
                         return;
                     default:
@@ -49,7 +60,8 @@ namespace ValidaCPF_CNPJ
             Console.WriteLine("Selecione a Opção de Validação");
             Console.WriteLine("1. CPF");
             Console.WriteLine("2. CNPJ");
-            Console.WriteLine("3. Sair");
+            Console.WriteLine("3. Digito");
+            Console.WriteLine("9. Sair");
             return int.Parse(Console.ReadLine());
         }
 
@@ -137,5 +149,26 @@ namespace ValidaCPF_CNPJ
             }
         }
 
+
+
+        static bool isDigit(string text)
+        {
+            string[] vetor = new string[text.Length];
+            //foreach (var item in text.All(A => A))
+            //{
+
+            //}
+            if (text.Where(c => char.IsNumber(c)).Count() == 0)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+
+
+
+        }
     }
 }
